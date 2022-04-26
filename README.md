@@ -8,7 +8,8 @@ the first you need to do if you use my code is to connect from the php to the da
 ![image](https://user-images.githubusercontent.com/71108329/165077662-6500d85c-4c49-46a5-a389-f4c07b943331.png)
 I create 4 table only to manage ordering system
 
-The code run properly from the landing page untill the transaction history, we can see from the landing page you can choose wheter you are the Driver or the User
+The code run properly from the landing page untill the transaction history, got to the file "LANDING PAGE.html" first to run all the code.
+we can see from the landing page you can choose wheter you are the Driver or the User
 ![image](https://user-images.githubusercontent.com/71108329/165055390-64972e1f-40e7-44d2-8c01-ac64a319e943.png)
 
 lets assume we are the user click the user logo, then just sign up or login to start ordering
